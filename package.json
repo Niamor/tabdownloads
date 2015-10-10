@@ -1,7 +1,7 @@
 {
   "title": "Downloads in a Tab",
   "name": "tabdownloads",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Open downloads in about:downloads instead of the library",
   "main": "index.js",
   "author": "Romain B.",
